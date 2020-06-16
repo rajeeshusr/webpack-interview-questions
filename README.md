@@ -2,12 +2,11 @@
 
 ### Table of Contents
 
-| No. | Questions |
-| --- | -------------------------------------------------------------------------------------------------------------- | |
-| 1 | [What is Webpack?](#what-is-webpack) |
-| 2 | [What are the major features of React?](#what-are-the-major-features-of-webpack) |
-| 3 | [Important plugins using in Webpack?](#important-plugins-using-in-Webpack) |
-| 4 | [What is the Dependency Graph in Webpack?](#what-is-the-dependency-graph-in-webpack) |
+| No. | Questions                                                                          |
+| --- | ---------------------------------------------------------------------------------- |
+| 1   | [What is Webpack?](#what-is-webpack)                                               |
+| 2   | [What are the major features of Webpack?](#what-are-the-major-features-of-webpack) |
+| 3   | [Important plugins using in Webpack?](#important-plugins-using-in-webpack)         |
 
 1. ### What is Webpack?
 
